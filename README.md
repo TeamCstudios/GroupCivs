@@ -1,6 +1,7 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 21 more players.
 
 #### Turn 2: The Beginning
+
 ![Turn2](assets/Turn2.png)
 
 Dogland - Military, colonize north<br/>
@@ -26,6 +27,7 @@ Culture: Arlington (2)<br/>
 Size: Gerbland
 
 #### Turn 1: The Beginning
+
 ![Turn1](assets/Turn1.png)
 
 Gerbland - Neutral focus, colonize southwest<br/>
@@ -45,6 +47,7 @@ Culture: Gerbland and Laku Lurraldea (1)<br/>
 Size: Dogland
 
 #### Turn 0: Game Starting
+
 ![Turn0](assets/Turn0.png)
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 25 players as well as adding 2-3 'AI' players.
 
