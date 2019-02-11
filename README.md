@@ -2,7 +2,7 @@ Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game
 
 #### Turn 2: The Beginning
 
-![Turn2](assets/Turn2.png)
+![Turn2](assets/Turn2x.png)
 
 Dogland - Military, colonize north<br/>
 Morea - Science, colonize southwest on mainland<br/>
