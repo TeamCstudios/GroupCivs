@@ -1,6 +1,6 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 20 more players.
 
-#### Turn 3: The Beginning
+## Turn 3: The Stone Age Wars
 ![Turn3](assets/Turn3.png)
 Gerbland: Science, colonize southwest<br/>
 Arlington: Military, colonize to island in northwest<br/>
@@ -20,8 +20,8 @@ As Disstopia and Arlington expand, they discover a new seaborne force occupying 
 
 The Sea People invade Disstopia.
 
-# [Sea People invasion of Disstopia](wars/war1.md)
-
+### [Sea People invasion of Disstopia](wars/war1.md)
+<br/><br/><br/><br/><br/><br/>
 ![Turn3](assets/Turn3b.png)
 
 Disstopia wins handily, pushing the Sea People out of their island (mostly)
@@ -35,7 +35,7 @@ Espionage: Morea (4)<br/>
 Culture: Corrædor, Arlington, Goodland (2)<br/>
 Size: Gerbland
 
-#### Turn 2: The Beginning
+## Turn 2: The Beginning
 
 ![Turn2](assets/Turn2x.png)
 
@@ -50,7 +50,7 @@ Corrædor - Science, northeast
 
 New countries, Lusciobar and Corrædor are founded.
 
-Lusciobar and Corrædor discover Deep Water Navigation, while Laku Lurraldea discovers Improved Agriculture 1.
+Lusciobar and Corrædor discover Improved Sailing, while Laku Lurraldea discovers Improved Agriculture 1.
 
 Obsidian Working reaches Gerbland and Morea.
 
@@ -61,7 +61,7 @@ Espionage: Morea (2)<br/>
 Culture: Arlington (2)<br/>
 Size: Gerbland
 
-#### Turn 1: The Beginning
+## Turn 1: The Beginning
 
 ![Turn1](assets/Turn1.png)
 
@@ -81,7 +81,7 @@ Espionage: Morea (2)<br/>
 Culture: Gerbland and Laku Lurraldea (1)<br/>
 Size: Dogland
 
-#### Turn 0: Game Starting
+## Turn 0: Game Starting
 
 ![Turn0](assets/Turn0.png)
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 25 players as well as adding 2-3 'AI' players.
