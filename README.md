@@ -1,4 +1,37 @@
-Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 21 more players.
+Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 20 more players.
+
+#### Turn 3: The Beginning
+![Turn3](assets/Turn3.png)
+Gerbland: Science, colonize southwest
+Arlington: Military, colonize to island in northwest
+Disstopia: Neutral, colonize southwest
+Goodland: Culture, colonize north
+Corrædor: Culture, colonize east
+Laku Larraldea: Neutral, colonize generally
+Dogland: Science, colonize west
+Morea: Espionage, colonize southwest
+Lusciobar: Espionage, colonize east
+
+A new country is founded: Disstopia.
+
+Dogland discovers Obsidian Working.
+
+As Disstopia and Arlington expand, they discover a new seaborne force occupying the coasts of several islands.
+
+The Sea People invade Disstopia.
+
+# War
+
+Disstopia wins handily, pushing the Sea People out of their island (mostly)
+
+Naval skirmishes happen between Arlington and The Sea People.
+
+Statistical Leaders:
+Military: Dogland (7)
+Science: No clear leader
+Espionage: Morea (4)
+Culture: Corrædor, Arlington, Goodland (2)
+Size: Gerbland
 
 #### Turn 2: The Beginning
 
