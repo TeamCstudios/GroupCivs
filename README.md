@@ -21,7 +21,7 @@ As Disstopia and Arlington expand, they discover a new seaborne force occupying 
 The Sea People invade Disstopia.
 
 ### [Sea People invasion of Disstopia](wars/war1.md)
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![Turn3](assets/Turn3b.png)
 
 Disstopia wins handily, pushing the Sea People out of their island (mostly)
