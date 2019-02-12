@@ -1,4 +1,32 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
+## Turn 4: The Stone Age Wars
+![Turn4](assets/Turn4a.png)
+Disstopia: Neutral, invade Sea People holdings on the island<br/>
+Dogland: Science, colonize west<br/>
+Arlington: Military, invade sea people holdings<br/>
+Gerbland: Military, invade sea people colony<br/>
+Corrædor: Culture, colonize south<br/>
+Lusciobar: Espionage, expand east<br/>
+Goodland: Military, colonize west<br/>
+Laku Lurraldea: Culture, colonize generally<br/>
+Morea: Espionage, invade Gerbland<br/>
+States of the Krai: Espionage
+
+Arlington creates the States of the Krai as a buffer state between them and Gerbland. Gerbland, Arlington and the States of the Krai sign an anti- Sea People alliance.
+
+# [War of the Seas](wars/war2.md)
+<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+![Turn4](assets/Turn4b.png)
+
+Statistical Leaders:
+Military: Gerbland, Arlington, Goodland, Dogland (7)<br/>
+Science: Dogland (4)<br/>
+Espionage: Morea (6)<br/>
+Culture: Corrædor (4)<br/>
+Size: Gerbland / Laku Lurraldea (if lakes are included)
+
 
 ## Turn 3: The Stone Age Wars
 ![Turn3](assets/Turn3.png)
