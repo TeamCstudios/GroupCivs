@@ -1,4 +1,30 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
+
+## Turn 5: The Stone Age Wars
+![Turn5](assets/Turn5a.png)
+Dogland: Military, colonize west
+Gerbland: Culture, Invade Morea
+Goodland: Neutral, colonize north
+Corrædor: Military, colonize south
+Morea: Espionage, sneak invasion
+Arlington, States of the Krai: Invade the Disstopian island
+Arlington: Military
+States of the Krai: Espionage
+Laku Lurraldea: Neutral, colonize generally
+Disstopia: Neutral, colonize generally
+Lusciobar: Espionage, colonize north
+
+### [Gerbland-Morea War](wars/war3.md)
+### [Arlington-Disstopia War](wars/war4.md)
+<br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
+
+![Turn5](assets/Turn5b.png)
+
+The island is partitioned between Arlington, the States of the Krai, and Disstopia.
+
+Disstopia discovers Obsidian Working.
+
 ## Turn 4: The Stone Age Wars
 ![Turn4](assets/Turn4a.png)
 Disstopia: Neutral, invade Sea People holdings on the island<br/>
