@@ -14,7 +14,7 @@ States of the Krai: Espionage
 
 Arlington creates the States of the Krai as a buffer state between them and Gerbland. Gerbland, Arlington and the States of the Krai sign an anti- Sea People alliance.
 
-# [War of the Seas](wars/war2.md)
+### [War of the Seas](wars/war2.md)
 <br/><br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/><br/>
 
