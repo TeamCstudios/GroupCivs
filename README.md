@@ -15,6 +15,7 @@ Morea: Espionage, colonize west<br/>
 Lusciobar: Neutral (didn't submit by deadline)
 
 The Sea People invade Goodland as Arlington, SotK, and Disstopia invade them.
+### [Final War of the Sea People](wars/war5.md)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![Turn6](assets/Turn6b.png)
 
