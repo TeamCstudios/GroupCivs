@@ -1,17 +1,42 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
 
+## Turn 6: The Obsidian Age Wars
+![Turn6](assets/Turn6a.png)
+Gerbland: Culture, colonize southwest<br/>
+Goodland: Neutral, colonize north<br/>
+Corrædor: Military, colonize west<br/>
+Dogland: Military, colonize west<br/>
+Disstopia: Military, Invade southwest<br/>
+Arlington + States of The Krai: Help invade island<br/>
+Arlington: Espionage<br/>
+States of The Krai: Espionage<br/>
+Laku Lurraldea: Neutral, colonize generally<br/>
+Morea: Espionage, colonize west<br/>
+Lusciobar: Neutral (didn't submit by deadline)
+
+The Sea People invade Goodland as Arlington, SotK, and Disstopia invade them.
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+![Turn6](assets/Turn6b.png)
+
+Stat. Leaders:<br/>
+Military: Dogland (9)<br/>
+Science: Dogland (4)<br/>
+Espionage: Morea (10)<br/>
+Culture: Corrædor (4)<br/>
+Size: Laku Lurraldea
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Turn 5: The Stone Age Wars
 ![Turn5](assets/Turn5a.png)
-Dogland: Military, colonize west
-Gerbland: Culture, Invade Morea
-Goodland: Neutral, colonize north
-Corrædor: Military, colonize south
-Morea: Espionage, sneak invasion
-Arlington, States of the Krai: Invade the Disstopian island
-Arlington: Military
-States of the Krai: Espionage
-Laku Lurraldea: Neutral, colonize generally
-Disstopia: Neutral, colonize generally
+Dogland: Military, colonize west<br/>
+Gerbland: Culture, Invade Morea<br/>
+Goodland: Neutral, colonize north<br/>
+Corrædor: Military, colonize south<br/>
+Morea: Espionage, sneak invasion<br/>
+Arlington, States of the Krai: Invade the Disstopian island<br/>
+Arlington: Military<br/>
+States of the Krai: Espionage<br/>
+Laku Lurraldea: Neutral, colonize generally<br/>
+Disstopia: Neutral, colonize generally<br/>
 Lusciobar: Espionage, colonize north
 
 ### [Gerbland-Morea War](wars/war3.md)
