@@ -1,5 +1,34 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
 
+## Turn 7: The Obsidian Age Wars
+![Turn7](assets/Turn7a.png)
+
+Corrædor: Science, colonize southwest<br/>
+Gerbland: Military, colonize east<br/>
+Disstopia: Military, Invade northwest into Goodland<br/>
+Goodland: Neutral, colonize west<br/>
+Arlington: Culture, colonize the main island<br/>
+States of the Krai: Espionage, colonize the mainland in northeast<br/>
+Morea: Military, Invade Gerbland<br/>
+Laku Lurraldea: Neutral, colonize east<br/>
+Lusciobar: Neutral (DSIT)<br/>
+Dogland: Military, colonize south
+
+Corrædor discovers The Kingdom. (everyone can now use this)
+
+### [The Peninsular War](wars/war6.md)
+### [Second Gerbland-Morea War](wars/war7.md)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+![Turn7](assets/Turn7b.png)
+
+Stat. Leaders<br/>
+Military: Dogland (11)<br/>
+Science: Dogland, Corrædor (4)<br/>
+Espionage: Morea (10)<br/>
+Culture: Corrædor (4)<br/>
+Size: Laku Lurraldea
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## Turn 6: The Obsidian Age Wars
 ![Turn6](assets/Turn6a.png)
 Gerbland: Culture, colonize southwest<br/>
