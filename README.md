@@ -1,5 +1,27 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
 
+## Turn 8: The Obsidian Age Wars
+![Turn8](assets/Turn8a.png)
+Corrædor: Espionage, colonize west<br/>
+Gerbland: Military, change to Kingdom<br/>
+Goodland: Military, invade peninsula from the west<br/>
+Dogland: Science, colonize west<br/>
+Arlington: Military<br/>
+Laku Lurraldea: Neutral, change to Kingdom<br/>
+Morea: Military, create Mugakolurrak<br/>
+States of the Krai: Espionage<br/>
+Arlington, States of the Krai: Invade Disstopia<br/>
+Mugakolurrak: Culture<br/>
+United Isthmus: Science, colonize northeast<br/>
+Disstopia: Military, invade Goodland<br/>
+Lusciobar: Neutral (DSIT)
+
+Dogland discovers Improved Agriculture 1.
+
+Morea and Gerbland make peace, creating a buffer state called Mugakolurrak.
+
+![Turn8](assets/Turn8b.png)
+
 ## Turn 7: The Obsidian Age Wars
 ![Turn7](assets/Turn7a.png)
 
