@@ -20,6 +20,8 @@ Dogland discovers Improved Agriculture 1.
 
 Morea and Gerbland make peace, creating a buffer state called Mugakolurrak.
 
+### [Second War of the Seas](wars/war8.md)
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ![Turn8](assets/Turn8b.png)
 
 ## Turn 7: The Obsidian Age Wars
