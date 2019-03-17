@@ -1,5 +1,23 @@
 Please join [The Discord](https://discord.gg/q8DEdhR) in order to join this game. Then, DM me with the name of your country and the general area you want to settle. I will accept 19 more players.
 
+## Turn 9: The Obsidian Age
+![Turn9](assets/Turn9a.png)
+Dogland: Military, colonize east<br/>
+Corrædor: Culture, colonize generally<br/>
+United Isthmus: Military, colonize SSW<br/>
+Goodland: Science, colonize north<br/>
+Gerbland: Espionage, colonize generally<br/>
+Arlington: Military, colonize south on main island<br/>
+Laku Lurraldea: Military, colonize north<br/>
+States of the Krai: Neutral<br/>
+Morea: Espionage, colonize west<br/>
+Mugalokurrak: Neutral, colonize WNW<br/>
+Disstopia (g.i.e.): Neutral, DSIT<br/>
+Lusciobar: Neutral, DSIT<br/>
+Konfederazioa: Military, colonize north
+
+Goodland discovers The Empire.
+<br/><br/>
 ## Turn 8: The Obsidian Age Wars
 ![Turn8](assets/Turn8a.png)
 Corrædor: Espionage, colonize west<br/>
